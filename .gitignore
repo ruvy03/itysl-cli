@@ -39,6 +39,7 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
+*.bat
 
 # Testing
 .pytest_cache/
