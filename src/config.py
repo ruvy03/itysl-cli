@@ -2,7 +2,7 @@ from questionary import Style
 
 
 # File paths
-DEFAULT_CONFIG_PATH = "itysl_data.json"
+DEFAULT_CONFIG_PATH = "./itysl_data.json"
 DEFAULT_VIDEO_DIR = "./videos"
 
 # UI Styling
