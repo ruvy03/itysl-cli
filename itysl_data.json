@@ -1,0 +1,214 @@
+{
+  "video_directory": "./videos",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "file": "S01E01.mkv",
+          "sketches": [
+            {"name": "Both Ways", "start_time": 0},
+            {"name": "Has This Ever Happened to You?", "start_time": 100},
+            {"name": "Baby of the Year", "start_time": 207},
+            {"name": "Instagram", "start_time": 445},
+            {"name": "Gift Receipt", "start_time": 565}
+          ]
+        },
+        {
+          "episode": 2,
+          "file": "S01E02.mkv",
+          "sketches": [
+            {"name": "Biker Guy", "start_time": 0},
+            {"name": "River Mountain High", "start_time": 135},
+            {"name": "Wilson's Toupees", "start_time": 278},
+            {"name": "Pink Bag", "start_time": 383},
+            {"name": "River Mountain High (Continued)", "start_time": 567},
+            {"name": "The Man", "start_time": 644}
+          ]
+        },
+        {
+          "episode": 3,
+          "file": "S01E03.mkv",
+          "sketches": [
+            {"name": "Which Hand", "start_time": 0},
+            {"name": "Focus Group", "start_time": 230},
+            {"name": "Laser Spine Specialists", "start_time": 410},
+            {"name": "New Joe", "start_time": 572},
+            {"name": "Game Night", "start_time": 698}
+          ]
+        },
+        {
+          "episode": 4,
+          "file": "S01E04.mkv",
+          "sketches": [
+            {"name": "Lifetime Achievement", "start_time": 33},
+            {"name": "A Christmas Carol", "start_time": 225},
+            {"name": "Nachos", "start_time": 365},
+            {"name": "Traffic", "start_time": 599}
+          ]
+        },
+        {
+          "episode": 5,
+          "file": "S01E05.mkv",
+          "sketches": [
+            {"name": "Brooks Brothers", "start_time": 0},
+            {"name": "Choking", "start_time": 192},
+            {"name": "New Printer", "start_time": 373},
+            {"name": "The Day Robert Palins Murdered Me", "start_time": 522},
+            {"name": "Babysitter", "start_time": 726}
+          ]
+        },
+        {
+          "episode": 6,
+          "file": "S01E06.mkv",
+          "sketches": [
+            {"name": "Fenton's Stables and Horse Farm", "start_time": 42},
+            {"name": "Chunky", "start_time": 137},
+            {"name": "Bozo", "start_time": 367},
+            {"name": "Baby Shower", "start_time": 494},
+            {"name": "Bozo (Continued)", "start_time": 700},
+            {"name": "Party House", "start_time": 830}
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "episode": 1,
+          "file": "S02E01.mkv",
+          "sketches": [
+            {"name": "H.D. Vac Part II", "start_time": 0},
+            {"name": "Corncob TV", "start_time": 170},
+            {"name": "Prank Show", "start_time": 282},
+            {"name": "Little Buff Boys", "start_time": 488},
+            {"name": "Ghost Tour", "start_time": 719}
+          ]
+        },
+        {
+          "episode": 2,
+          "file": "S02E02.mkv",
+          "sketches": [
+            {"name": "The Capital Room", "start_time": 0},
+            {"name": "Dan Flashes", "start_time": 120},
+            {"name": "Diner Wink", "start_time": 335},
+            {"name": "The Shops at the Creeks", "start_time": 543},
+            {"name": "Baby Cries", "start_time": 620}
+          ]
+        },
+        {
+          "episode": 3,
+          "file": "S02E03.mkv",
+          "sketches": [
+            {"name": "Grambles Lorelei Lounge", "start_time": 0},
+            {"name": "Crashmore - Trailer", "start_time": 241},
+            {"name": "H.D. Vac Commercial", "start_time": 355},
+            {"name": "Crashmore - Junket", "start_time": 448},
+            {"name": "Qualstarr Trial", "start_time": 630}
+          ]
+        },
+        {
+          "episode": 4,
+          "file": "S02E04.mkv",
+          "sketches": [
+            {"name": "Wife Joke", "start_time": 0},
+            {"name": "Friend's Weekend", "start_time": 260},
+            {"name": "Calico Cut Pants", "start_time": 420}
+          ]
+        },
+        {
+          "episode": 5,
+          "file": "S02E05.mkv",
+          "sketches": [
+            {"name": "Parking Lot", "start_time": 0},
+            {"name": "Del Frisco's Double Eagle", "start_time": 120},
+            {"name": "Joanie's Birthday", "start_time": 331},
+            {"name": "Little Buff Boys Competition", "start_time": 550},
+            {"name": "Mars Restaurant", "start_time": 602}
+          ]
+        },
+        {
+          "episode": 6,
+          "file": "S02E06.mkv",
+          "sketches": [
+            {"name": "Dave Suit", "start_time": 0},
+            {"name": "Driver's Ed", "start_time": 172},
+            {"name": "Tammy Craps", "start_time": 446},
+            {"name": "Big Wave", "start_time": 570},
+            {"name": "Claire's", "start_time": 746}
+          ]
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "file": "S03E01.mkv",
+          "sketches": [
+            {"name": "Barley Tonight", "start_time": 0},
+            {"name": "Mortal Enemies", "start_time": 182},
+            {"name": "Summer Loving", "start_time": 370},
+            {"name": "Dad Video", "start_time": 552},
+            {"name": "Designated Driver", "start_time": 672}
+          ]
+        },
+        {
+          "episode": 2,
+          "file": "S03E02.mkv",
+          "sketches": [
+            {"name": "Supermarket Swap", "start_time": 0},
+            {"name": "Darmine Doggy Door", "start_time": 183},
+            {"name": "Ponytail", "start_time": 310},
+            {"name": "Eggman Game", "start_time": 490},
+            {"name": "Sitcom Taping", "start_time": 636}
+          ]
+        },
+        {
+          "episode": 3,
+          "file": "S03E03.mkv",
+          "sketches": [
+            {"name": "Silent Show", "start_time": 0},
+            {"name": "First Date", "start_time": 190},
+            {"name": "ABX Heart Monitor", "start_time": 405},
+            {"name": "Drive Thru", "start_time": 570},
+            {"name": "Robert's Christmas Birthday", "start_time": 712}
+          ]
+        },
+        {
+          "episode": 4,
+          "file": "S03E04.mkv",
+          "sketches": [
+            {"name": "Jenna's Bad Day", "start_time": 0},
+            {"name": "Pacific Proposal Park", "start_time": 199},
+            {"name": "Gelutol", "start_time": 300},
+            {"name": "Summer Loving Farewell Package", "start_time": 527},
+            {"name": "Children's Choir", "start_time": 570}
+          ]
+        },
+        {
+          "episode": 5,
+          "file": "S03E05.mkv",
+          "sketches": [
+            {"name": "Bloody Eyeball", "start_time": 0},
+            {"name": "Photo Booth", "start_time": 258},
+            {"name": "Talk About My Kids", "start_time": 413}
+          ]
+        },
+        {
+          "episode": 6,
+          "file": "S03E06.mkv",
+          "sketches": [
+            {"name": "Banana Breath", "start_time": 0},
+            {"name": "Metal Motto Search", "start_time": 204},
+            {"name": "Don Bondarley", "start_time": 405},
+            {"name": "Tasty Time Vids", "start_time": 597}
+          ]
+        }
+      ]
+    }
+  ]
+}
