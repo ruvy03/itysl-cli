@@ -1,4 +1,4 @@
-# ITYSL CLI Browser
+# ITYSL CLI Player
 
 A command-line interface for browsing and playing "I Think You Should Leave" episodes and sketches using mpv.
 
@@ -64,7 +64,7 @@ Create a batch file to run the program from any directory:
 3. Add a custom directory to PATH:
 
    - Create a folder like `C:\bin`
-   - Add it to PATH: System Properties → Environment Variables → Path → New → `C:\bin`
+   - Add it to PATH
    - Save `itysl.bat` there
 
 4. Now you can run `itysl` from any command prompt!
