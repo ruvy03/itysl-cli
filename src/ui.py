@@ -145,4 +145,4 @@ class UI:
     @staticmethod
     def display_exit_message() -> None:
         """Display exit message"""
-        print("\n\033[95mI don't even want to be around anymore!\033[0m\n")
+        print("\n\033[95mI don't even want to be around anymore\033[0m\n")

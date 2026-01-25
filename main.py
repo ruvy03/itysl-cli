@@ -8,7 +8,7 @@ def main():
     try:
         browser.run()
     except KeyboardInterrupt:
-        print("\n\nExiting... I don't even want to be around anymore!")
+        print("\n\nExiting... I don't even want to be around anymore")
         sys.exit(0)
 
 
